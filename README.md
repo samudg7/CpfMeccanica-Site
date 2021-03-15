@@ -1,2 +1,2 @@
 # CpfMeccanica-Site
- Sito Web
+ Sito Web creato durante il corso di Tecnologie Web dell'Unversità di Padova.
