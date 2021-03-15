@@ -1,0 +1,49 @@
+#contenuto{
+text-align:center;
+}
+
+#contenuto h1{
+font-size: 3em;
+padding: 1em 0 1em 0;
+background-color:rgb(128,128,128);
+color: white;	
+}
+
+#prodotti img{
+width: 25%;
+height: auto;
+box-shadow: 0 8px 15px 0 rgba(0,0,0,0.5);
+text-align: center;
+padding: 1em 7em 1em 7em;
+margin: 1em 0 1em 0;
+}
+	
+#contenuto table{
+width: 95%;
+background-color: #f8f8f8;
+color: black;
+text-align: center;
+border: 1px solid black;
+border-collapse: collapse;
+margin-left:auto;
+margin-right:auto;
+}
+#contenuto table th{
+font-size: 1.9em;
+border: 1px solid rgb(150,0,0);
+background-color: rgb(150,0,0);
+color: white;
+padding: 0.5em;
+}
+#contenuto table td{
+border: 1px solid black;
+width: auto;
+padding: 0.5em;
+font-size:1.4em;
+}
+
+#contenuto table #img_tab{
+display: none;
+}
+
+

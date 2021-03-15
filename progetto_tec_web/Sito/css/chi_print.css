@@ -1,0 +1,47 @@
+#intro{
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+
+.slide img {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+	margin-bottom: 2em;
+}
+
+.slides{
+	list-style-type: none;
+}
+
+
+#primo img{
+	width: 50%;
+    border-radius: 10px;
+	float: left;
+	margin-right: 1em;
+}
+
+#secondo img{
+	width: 40%;
+    border-radius: 10px;
+	float: left;
+	margin-right: 1em;
+}
+
+.navi{
+    display: none;
+}
+
+#primo{
+	font-size: 1.2em;
+	line-height: 1.2em;
+	text-align: inline;
+	
+}
+
+#secondo{
+	font-size: 1.2em;
+	line-height: 1.2em;
+	text-align: inline;
+}

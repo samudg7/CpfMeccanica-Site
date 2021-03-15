@@ -1,0 +1,185 @@
+#welcome{
+	margin-top: 2em;
+	text-align: center;
+	width: 90%;
+	margin-left: 5%;
+}
+#welcome h3{
+	background-color: rgb(150,0,0);
+	color: white;
+	height: 2em;
+	line-height: 2em;
+	border-radius: 8px;
+}
+#imgsede{
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 1.5em;
+	border-radius: 8px;
+}
+#ln{
+	text-align:center;
+	margin-top: 1em;
+	font-size: 1.2em;
+}
+.sx{
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 2em;
+	border: #dddddd 1.5px solid;
+	text-align: center;
+	color: #bbbbbb;
+	border-radius: 8px;
+	height: 10em;
+	overflow: hidden;
+	float: none;
+}
+.sx:hover{
+	cursor: pointer;
+	
+}
+.dx{
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 2em;
+	border: #dddddd 1.5px solid;
+	text-align: center;
+	color: #bbbbbb;
+	border-radius: 8px;
+	height: 10em;
+	overflow: hidden;
+	float: none;
+}
+.dx:hover{
+	cursor: pointer;
+}
+#art{
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 2em;
+	margin-bottom: 3em;
+	border: #dddddd 1.5px solid;
+	text-align: center;
+	color: #bbbbbb;
+	border-radius: 8px;
+}
+.div_commento{
+	width: 90%;
+	margin-left: 5%;
+	border: #dddddd 1.5px solid;
+	text-align: center;
+	color: #bbbbbb;
+	border-radius: 8px;
+	text-align: center;
+}
+.tit_commento{
+	line-height: 2em;
+	height: 2em;
+	background: #aaa;
+	border-radius: 8px 8px 0px 0px;
+	font-weight: bold;
+	color: white;
+}
+#txtcommento{
+	text-align: left;
+	padding: 1em;
+}
+#hrcommento{
+	border-top: 1px solid #aaa;
+}
+#nocomment{
+	color: #aaa;
+	font-size: 0.9em;
+}
+#novisible{
+	display: none;
+}
+.commento{
+	line-height: 1.5em;
+	color: black;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+.likes{
+	color: #aaa;
+	cursor: pointer;
+	border-style: none;
+	background: #f8f8f8;
+	font-size: 0.9em;
+}
+#infocommento{
+	font-size: 0.9em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+}
+
+
+
+.title{
+	line-height: 3em;
+	height: 3em;
+	background: #960000;
+	border-radius: 8px 8px 0px 0px;
+	font-weight: bold;
+	color: white;
+}
+.vedialtro{
+	font-size: 0.8em;
+	padding-top: 0.5em;
+}
+.text{
+	line-height: 1.8em;
+	padding: 0em 1em 1em 1em;
+	color: black;
+}
+#admin{
+	margin-top: 2em;
+	clear: both;
+}
+#admin h3{
+	margin-top: 1em;
+	text-align: center;
+}
+.hrnormal{
+	margin-top: 2em;
+	border-top: 1px solid #F0F0F0;
+}
+fieldset{
+	margin-top: 2em;
+	width:90%;
+	margin-left: 5%;
+	border: #dddddd 1.0px solid;
+	text-align: center;
+}
+legend{
+	color: #888;
+	margin: auto;
+}
+.input{
+	width: 80%;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+}
+textarea{
+	resize: none;
+	text-align: left;
+	padding: 1em;
+}
+input{
+	line-height: 2em;
+}
+.button{
+  background-color: #4CAF50;
+  color: white;
+  padding: 4px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#admin p{
+	margin-top: 1em;
+}

@@ -1,0 +1,259 @@
+ul.capitalize{
+text-transform: capitalize;
+}
+#p1{
+    list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+	position:absolute;
+	margin-top:1.8em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img1{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:4.5em;
+	margin-left:11%;
+	margin-right:80%;
+
+-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img1:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+
+#p2{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    position:absolute;
+	margin-top:12.9em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img2{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:19em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img2:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+
+#p3{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    position:absolute;
+    margin-top:24em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img3{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:33.5em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img3:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+#p4{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+     position:absolute;
+     margin-top:35.1em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img4{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:48em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img4:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+
+#p5{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    position:absolute;
+	margin-top:46.2em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img5{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:62.5em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img5:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+
+#p6{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+     position:absolute;
+	 margin-top:57.3em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img6{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:77em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img6:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+
+#p7{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    position:absolute;
+	margin-top:68.4em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img7{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:91.5em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img7:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+	}	
+
+#p8{
+list-style:none;
+    font-size: 1.3em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+     position:absolute;
+	 margin-top:79.5em;
+	margin-left:11%;
+	margin-right:80%;
+}
+#img8{
+width:15em;
+height:auto;
+
+position:absolute;
+	margin-top:106em;
+	margin-left:11%;
+	margin-right:80%;
+	
+	-moz-transition:all 0.3s;
+	-webkit-transormation:all 0.3s;
+	transition: all 0.3s;}
+	
+#img8:hover{
+	-moz-transormation:scale(1.1);
+	
+	-webkit-transormation:scale(1.1);
+	transform:scale(1.1);
+	cursor:pointer;
+}	
+
+

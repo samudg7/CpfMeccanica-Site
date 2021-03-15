@@ -1,0 +1,16 @@
+#enkey{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20em;
+}
+
+.info404{
+	text-align: center;
+	line-height: 2em;
+	
+}
+#linkHome{
+	text-decoration: none;
+	color: black;
+}

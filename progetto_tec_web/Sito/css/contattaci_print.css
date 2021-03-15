@@ -1,0 +1,21 @@
+#contatto{
+	float: right;
+	text-align: center;
+}
+#contatto .p{
+	line-height: 0.6em;
+}
+#maps{
+	float: left;
+	width: 60%;
+	border-radius: 8px;
+}
+#form{
+	display: none;
+}
+#credit{
+	position: static;
+	clear: both;
+	text-align: center;
+	margin-top: 1em;
+}

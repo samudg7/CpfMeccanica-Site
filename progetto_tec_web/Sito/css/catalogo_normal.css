@@ -1,0 +1,46 @@
+#titolo_pagina{
+	margin-top: 2em;
+	text-align: center;
+	width: 70%;
+	margin-left: 15%;
+}
+#titolo_pagina h3{
+	background-color: rgb(150,0,0);
+	color: white;
+	height: 2.5em;
+	line-height: 2.5em;
+	border-radius: 8px;
+}
+
+#interrogazione img{
+float:left;
+width: 20em;
+height: auto;
+padding: 2em 5em 5em 2em;
+
+}
+#interrogazione{
+padding: 2em 5em 8em 2em;
+}
+.nome{
+font-size:2.5em;
+font-family:"Arial Black", Gadget, sans-serif;
+color: blue;
+}
+.nomecatalogo{
+padding: 2em 1em 1em 2em;
+font-size:1.5em;
+font-family:"Arial Black", Gadget, sans-serif;
+color: blue;
+}
+#prodotti img{
+width: 25%;
+height: auto;
+box-shadow: 0 8px 15px 0 rgba(0,0,0,0.5);
+float: left;
+padding: 1em;
+margin: 1em 5em 2em 10em;
+}
+.desc{
+padding: 2em 0 6.2em 0;
+}

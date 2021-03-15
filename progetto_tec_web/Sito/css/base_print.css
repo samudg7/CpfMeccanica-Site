@@ -1,0 +1,40 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+}
+#header h1{
+	display: none;
+}
+#lingua{
+	display: none;
+}
+#mondo{
+	display: none;
+}
+#nav{
+	display: none;
+}
+#logo{
+	display: none;
+}
+#footer{
+	display: none;
+}
+#menu{
+	display: none;
+}
+#print-title{
+	font-size: 3em;
+	text-transform: uppercase;
+	text-align: center;
+	display: inline;
+}
+.currentLink{
+	display: inline;
+}
+hr{
+	display: none;
+}
+#breadcrumbs{
+	text-align: center;
+}

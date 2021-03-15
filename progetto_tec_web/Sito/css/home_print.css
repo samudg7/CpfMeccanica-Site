@@ -1,0 +1,46 @@
+#welcome{
+	text-align: center;
+}
+#imgsede{
+	width: 50%;
+	margin-left: 25%;
+	border-radius: 8px;
+}
+#ln{
+	text-align:center;
+	margin-top: 2em;
+	font-size: 1.2em;
+	margin-bottom: 2em;
+}
+
+.sx{
+	margin-top: 2em;
+	float: none;
+	border: none;
+	height: auto;
+}
+.dx{
+	margin-top: 2em;
+	float: none;
+	border: none;
+	height: auto;
+}
+.title{
+	font-weight: bold;
+	color: black;
+	line-height: 1em;
+}
+.vedialtro{
+	display: none;
+}
+.text{
+	margin-left: 1em;
+	color: black;
+	line-height: 1em;
+}
+#admin{
+	display: none;
+}
+a{
+	text-decoration: none;
+}
