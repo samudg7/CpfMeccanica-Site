@@ -4,4 +4,4 @@ Il sito è attivo al seguente indirizzo: http://sitos9.altervista.org/cpfmeccani
 
 
 Nella sezione Accesso, dopo aver effettuato l'autenticazione al sito tramite l'username e password: "admin", risulta possibile accedere al "Panello Amministratore" .
-In questo modo si ottiene la funzionalità di aggiungere o eliminare una news nella sezione Home o un prodotto nella sezione Catalogo.
+In questo modo si ottengono le funzionalità di aggiungere o eliminare una news nella sezione Home o un prodotto nella sezione Catalogo.
